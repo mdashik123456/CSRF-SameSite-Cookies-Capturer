@@ -3,7 +3,7 @@ from MyJsconConverter import MyJsconConverter
 
 driver = webdriver.Chrome()
 # driver = webdriver.Firefox()
-driver.get("https://www.example-site.com")
+driver.get("https://www.example-site.com") #Change website address
 
 # Get all the cookies
 mycookies = driver.get_cookies()
