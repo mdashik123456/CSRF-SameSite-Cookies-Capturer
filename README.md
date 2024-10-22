@@ -1,7 +1,7 @@
 ## Install:
 '''pip install selenium'''
 
-
+## About SameSite Cookies
 SameSite cookies are a security feature introduced in Chrome 80 and Firefox 69 to help prevent cross-site request forgery (CSRF) attacks. These cookies specify whether a cookie should be sent to the server only when the origin of the request is the same as the origin of the cookie.
 
 Types of SameSite Cookies:
